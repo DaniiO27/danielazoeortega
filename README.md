@@ -37,7 +37,6 @@ Interested in **data-driven technologies, biomedical engineering, and data visua
 
 <p>
 <img src="https://skillicons.dev/icons?i=python,matlab,html,css,js,mysql,git" />
-<img src="https://cdn.simpleicons.org/powerbi/F2C811" height="48"/>
 </p>
 
 **Technologies:**  
