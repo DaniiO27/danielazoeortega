@@ -1,6 +1,4 @@
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com/?lines=Bionic+Engineer;Data+Analyst;Web+Developer;Python+%7C+SQL+%7C+Power+BI&center=true&width=500&height=45">
-</p>
+
 
 # Hi 👋, I'm Daniela Zoe Ortega
 
@@ -38,7 +36,7 @@ Interested in **data-driven technologies, biomedical engineering, and data visua
 ## 🛠 Tech Stack
 
 <p>
-<img src="https://skillicons.dev/icons?i=python,matlab,cpp,html,css,js,dotnet,mysql,git,visualstudio" />
+<img src="https://skillicons.dev/icons?i=python,matlab,excel,html,css,js,mysql,git,visualstudio" />
 <img src="https://cdn.simpleicons.org/powerbi/F2C811" height="48"/>
 </p>
 
